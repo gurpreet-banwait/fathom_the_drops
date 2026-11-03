@@ -1,0 +1,74 @@
+[
+  {
+    "id": "a1b2c3d4-0001-4000-8000-000000000001",
+    "position": 1,
+    "filepath": "src/pages/slides/Slide1Title.tsx",
+    "title": "Fathom the Drops",
+    "description": "Title slide — charity: water branded game introduction",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0002-4000-8000-000000000002",
+    "position": 2,
+    "filepath": "src/pages/slides/Slide2Mission.tsx",
+    "title": "The Mission Behind the Game",
+    "description": "charity: water mission stats and connection to the game",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0003-4000-8000-000000000003",
+    "position": 3,
+    "filepath": "src/pages/slides/Slide3HowToPlay.tsx",
+    "title": "How to Play",
+    "description": "Four-step gameplay rules in a numbered grid layout",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0004-4000-8000-000000000004",
+    "position": 4,
+    "filepath": "src/pages/slides/Slide4Worlds.tsx",
+    "title": "7 Worlds, 7 Levels",
+    "description": "All seven level environments shown in a horizontal band",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0005-4000-8000-000000000005",
+    "position": 5,
+    "filepath": "src/pages/slides/Slide5Mechanics.tsx",
+    "title": "Game Mechanics",
+    "description": "Canvas rendering, audio, wave animation, and fill indicator",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0006-4000-8000-000000000006",
+    "position": 6,
+    "filepath": "src/pages/slides/Slide6Accessibility.tsx",
+    "title": "Built For Everyone",
+    "description": "Desktop, mobile, and any-device control schemes",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0007-4000-8000-000000000007",
+    "position": 7,
+    "filepath": "src/pages/slides/Slide7TechStack.tsx",
+    "title": "Tech Stack",
+    "description": "React + Vite, Canvas, Web Audio API, pnpm monorepo",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0008-4000-8000-000000000008",
+    "position": 8,
+    "filepath": "src/pages/slides/Slide8Journey.tsx",
+    "title": "The Journey",
+    "description": "Four-screen player flow from home to win",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0009-4000-8000-000000000009",
+    "position": 9,
+    "filepath": "src/pages/slides/Slide9Closing.tsx",
+    "title": "Play. Learn. Give.",
+    "description": "Closing slide with charitywater.org link",
+    "speakerNotes": ""
+  }
+]
